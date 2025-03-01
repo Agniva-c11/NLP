@@ -8,3 +8,4 @@ spacy
 wordnet
 textblob
 svgling
+gensim
